@@ -1,7 +1,7 @@
 # dev_quiz_flutter
 
-A new Flutter project.
-
+Flow screen project
+![alt text](https://github.com/carlosalexandre3107/dev-quiz-flutter/blob/main/assets/images/fluxo_telas_app_quiz_flutter.png?raw=true)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
