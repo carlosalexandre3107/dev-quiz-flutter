@@ -33,8 +33,8 @@ class AppBarWidget extends PreferredSize {
                             ]),
                       ),
                       Container(
-                        height: 58,
-                        width: 58,
+                        height: 48,
+                        width: 48,
                         decoration: BoxDecoration(
                           border: Border.fromBorderSide(
                               BorderSide(color: AppColors.purple)),
@@ -49,7 +49,7 @@ class AppBarWidget extends PreferredSize {
                   ),
                 ),
                 Align(
-                  alignment: Alignment(0.0, 1.0),
+                  alignment: Alignment(0.0, 1.1),
                   child: ScoreCardWidget(),
                 ),
               ],
